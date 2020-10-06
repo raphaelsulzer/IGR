@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IGR.iml" filepath="$PROJECT_DIR$/.idea/IGR.iml" />
+      <module fileurl="file://$USER_HOME$/cpp/surfaceReconstruction/python/.idea/python.iml" filepath="$USER_HOME$/cpp/surfaceReconstruction/python/.idea/python.iml" />
+      <module fileurl="file://$USER_HOME$/cpp/reconbench-CMake/scripts/.idea/scripts.iml" filepath="$USER_HOME$/cpp/reconbench-CMake/scripts/.idea/scripts.iml" />
+    </modules>
+  </component>
+</project>
